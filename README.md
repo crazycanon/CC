@@ -29,7 +29,7 @@
 
                                        
                                  Aakash 
-                             [Allahu Akbar]
+                               [Allahu Akbar]
 
 
 ```
@@ -61,7 +61,7 @@ $ install git python2
 
 $ git clone https://github.com/crazycanon/CC
 
-$ cd Crazy\ Canon/
+$ cd CC
 
 ```
 
