@@ -72,8 +72,9 @@ $ python2 aakash.py
 
 ```
 # [ Screenshot ]
+
 <img src=".images/Example.png "/>
 
 * if you are confused how to use it, please type 'man' to display the man menu
 * [Warn] please turn off your VPN before using this program !!!
-* [Tips] do not overuse this program !!!
+
