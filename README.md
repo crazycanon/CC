@@ -29,7 +29,7 @@
 
                                        
                                  Aakash 
-                               [Allahu Akbar]
+                              [Allahu Akbar]
 
 
 ```
