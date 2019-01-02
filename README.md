@@ -21,8 +21,7 @@
 
         
                                        
-                                 Aakash 
-                              [Allahu Akbar]
+                              Allahu Akbar]
 
 
 ```
@@ -46,11 +45,8 @@ Details Cannot be explained in public :P
 # [ Installation ]
 ```
 $ update
-
 $ install git python2
-
 $ git clone https://github.com/crazycanon/CC
-
 $ cd CC
 
 ```
@@ -58,18 +54,14 @@ $ cd CC
 # [ Setup ]
 ```
 $ pip2 install -r requirements.txt
-
 $ pip2 install pyfiglet
-
 $ pip2 install termcolor
-
 $ pip2 install colorama
 
 ```
 # [ Running ]
 ```
 $ python2 aakash.py
-
 ```
 # [ Screenshot ]
 
