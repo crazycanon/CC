@@ -50,7 +50,9 @@ about residence, date of birth, occupation, phone number and email address.
 # [ Installation ]
 ```
 $ update
+
 $ install git python2
+
 $ cd Crazy\ Canon/
 
 ```
@@ -58,8 +60,11 @@ $ cd Crazy\ Canon/
 # [ Setup ]
 ```
 $ pip2 install -r requirements.txt
+
 $ pip2 install pyfiglet
+
 $ pip2 install termcolor
+
 $ pip2 install colorama
 
 ```
