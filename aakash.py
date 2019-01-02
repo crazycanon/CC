@@ -50,7 +50,7 @@ jmlgetdata = []
 n = []
 ####################################################################
 #                        BANNER
-def baliho():
+def crazy():
 	try:
 		
 		token = open('cookie/token.log','r').read()
@@ -96,7 +96,7 @@ def info_ga():
 	print '''
      %sCOMMAND                      DESCRIPTION%s
   -------------       -------------------------------------
-   clear              clear terminal
+   clean              clear terminal
    man                show manual
    about              Show information about this program
 
@@ -950,14 +950,14 @@ def main():
 			print "[!] Hit 'token' To Start The Burn Bitch!!"
 			main()
 
-	elif cek.lower() == 'clear':
+	elif cek.lower() == 'clean':
 		if sys.platform == 'win32':
 			os.system('cls')
-			baliho()
+			crazy()
 			main()
 		else:
 			os.system('clear')
-			baliho()
+			crazy()
 			main()
 
 	elif cek.lower() == 'token':
@@ -1252,9 +1252,8 @@ def info(target):
 
 if __name__ == '__main__':
 
-	baliho()
+	crazy()
 	main()
 
 #
 ##########################################################################
-
